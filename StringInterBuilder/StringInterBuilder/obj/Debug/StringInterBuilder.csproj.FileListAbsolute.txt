@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\StringInterBuilder\StringInterBuilder\bin\Debug\StringInterBuilder.exe.config
+C:\Users\Nimap\source\repos\StringInterBuilder\StringInterBuilder\bin\Debug\StringInterBuilder.exe
+C:\Users\Nimap\source\repos\StringInterBuilder\StringInterBuilder\bin\Debug\StringInterBuilder.pdb
+C:\Users\Nimap\source\repos\StringInterBuilder\StringInterBuilder\obj\Debug\StringInterBuilder.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\StringInterBuilder\StringInterBuilder\obj\Debug\StringInterBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\StringInterBuilder\StringInterBuilder\obj\Debug\StringInterBuilder.exe
+C:\Users\Nimap\source\repos\StringInterBuilder\StringInterBuilder\obj\Debug\StringInterBuilder.pdb
