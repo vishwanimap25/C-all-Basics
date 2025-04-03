@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\New folder\April_02\April_02\bin\Debug\April_02.exe.config
+C:\Users\Nimap\source\repos\New folder\April_02\April_02\bin\Debug\April_02.exe
+C:\Users\Nimap\source\repos\New folder\April_02\April_02\bin\Debug\April_02.pdb
+C:\Users\Nimap\source\repos\New folder\April_02\April_02\obj\Debug\April_02.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\New folder\April_02\April_02\obj\Debug\April_02.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\New folder\April_02\April_02\obj\Debug\April_02.exe
+C:\Users\Nimap\source\repos\New folder\April_02\April_02\obj\Debug\April_02.pdb

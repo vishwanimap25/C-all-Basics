@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\CsharpOverall\March_29_Array\March_29_Array\bin\Debug\March_29_Array.exe.config
+C:\Users\Nimap\source\repos\CsharpOverall\March_29_Array\March_29_Array\bin\Debug\March_29_Array.exe
+C:\Users\Nimap\source\repos\CsharpOverall\March_29_Array\March_29_Array\bin\Debug\March_29_Array.pdb
+C:\Users\Nimap\source\repos\CsharpOverall\March_29_Array\March_29_Array\obj\Debug\March_29_Array.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\CsharpOverall\March_29_Array\March_29_Array\obj\Debug\March_29_Array.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\CsharpOverall\March_29_Array\March_29_Array\obj\Debug\March_29_Array.exe
+C:\Users\Nimap\source\repos\CsharpOverall\March_29_Array\March_29_Array\obj\Debug\March_29_Array.pdb
