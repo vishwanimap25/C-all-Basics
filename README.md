@@ -21,7 +21,7 @@ This repository contains my daily C# programs, created and updated during my int
 ## 🚀 How to Use
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/vishwanimap25/C-all-Basics.git
 
 2. Navigate to the desired folder and open the `.cs` files in Visual Studio.
 3. Compile and run the programs using:
