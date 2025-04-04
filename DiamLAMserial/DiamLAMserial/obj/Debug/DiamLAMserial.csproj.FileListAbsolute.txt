@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\DiamLAMserial\DiamLAMserial\obj\Debug\DiamLAMserial.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\DiamLAMserial\DiamLAMserial\obj\Debug\DiamLAMserial.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\DiamLAMserial\DiamLAMserial\bin\Debug\DiamLAMserial.exe.config
+C:\Users\Nimap\source\repos\DiamLAMserial\DiamLAMserial\bin\Debug\DiamLAMserial.exe
+C:\Users\Nimap\source\repos\DiamLAMserial\DiamLAMserial\bin\Debug\DiamLAMserial.pdb
+C:\Users\Nimap\source\repos\DiamLAMserial\DiamLAMserial\obj\Debug\DiamLAMserial.exe
+C:\Users\Nimap\source\repos\DiamLAMserial\DiamLAMserial\obj\Debug\DiamLAMserial.pdb
