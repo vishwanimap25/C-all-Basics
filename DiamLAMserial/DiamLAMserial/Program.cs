@@ -51,6 +51,27 @@ namespace DiamLAMserial
             Console.WriteLine("EMp id: " + emp.Id);
             Console.WriteLine("Emp name:" + emp.Name);
             stream.Close();
+
+
+            //Out and Ref keyword
+
+            //out
+            int num = 10;
+            OutAndRef.AddNum(num);
+            Console.WriteLine("for normal : "+ num);
+
+            OutAndRef.AddNumber(ref num);
+            Console.WriteLine("with ref : " + num);
+
+
+            //ref 
+            int length = 5;
+            int breadth = 6;
+            int area;
+            int parameter;
+            OutAndRef.Rectangle(length, breadth, out area, out parameter);
+            Console.WriteLine("THE area : " + area);
+            Console.WriteLine("the parameter: " + parameter);
         }
     }
 }
