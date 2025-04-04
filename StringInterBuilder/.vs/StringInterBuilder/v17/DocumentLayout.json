@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\StringInterBuilder\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|c:\\users\\nimap\\source\\repos\\stringinterbuilder\\stringinterbuilder\\listcocept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|solutionrelative:stringinterbuilder\\listcocept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|C:\\Users\\Nimap\\source\\repos\\StringInterBuilder\\stringinterbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|solutionrelative:stringinterbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|c:\\users\\nimap\\source\\repos\\stringinterbuilder\\stringinterbuilder\\stringbuildercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|solutionrelative:stringinterbuilder\\stringbuildercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|c:\\users\\nimap\\source\\repos\\stringinterbuilder\\stringinterbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|solutionrelative:stringinterbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|c:\\users\\nimap\\source\\repos\\stringinterbuilder\\stringinterbuilder\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|solutionrelative:stringinterbuilder\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|c:\\users\\nimap\\source\\repos\\stringinterbuilder\\stringinterbuilder\\stringinterpolation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|C:\\Users\\Nimap\\source\\repos\\StringInterBuilder\\stringinterbuilder\\stringinterpolation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFFAACD2-54E0-46EC-A54E-EA96895B239D}|StringInterBuilder\\StringInterBuilder.csproj|solutionrelative:stringinterbuilder\\stringinterpolation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +42,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\StringInterBuilder\\StringInterBuilder\\Employee.cs",
+              "RelativeDocumentMoniker": "StringInterBuilder\\Employee.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\StringInterBuilder\\StringInterBuilder\\Employee.cs",
+              "RelativeToolTip": "StringInterBuilder\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:10:35.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ListCocept.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\StringInterBuilder\\StringInterBuilder\\ListCocept.cs",
+              "RelativeDocumentMoniker": "StringInterBuilder\\ListCocept.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\StringInterBuilder\\StringInterBuilder\\ListCocept.cs",
+              "RelativeToolTip": "StringInterBuilder\\ListCocept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:59:50.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StringBuilderCode.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\StringInterBuilder\\StringInterBuilder\\StringBuilderCode.cs",
               "RelativeDocumentMoniker": "StringInterBuilder\\StringBuilderCode.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\StringInterBuilder\\StringInterBuilder\\StringBuilderCode.cs",
               "RelativeToolTip": "StringInterBuilder\\StringBuilderCode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T09:40:42.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StringInterpolation.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\StringInterBuilder\\StringInterBuilder\\StringInterpolation.cs",
               "RelativeDocumentMoniker": "StringInterBuilder\\StringInterpolation.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\StringInterBuilder\\StringInterBuilder\\StringInterpolation.cs",
               "RelativeToolTip": "StringInterBuilder\\StringInterpolation.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T06:32:20.116Z",
               "EditorCaption": ""
@@ -66,7 +100,7 @@
               "RelativeDocumentMoniker": "StringInterBuilder\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\StringInterBuilder\\StringInterBuilder\\Program.cs",
               "RelativeToolTip": "StringInterBuilder\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T06:31:26.831Z",
               "EditorCaption": ""

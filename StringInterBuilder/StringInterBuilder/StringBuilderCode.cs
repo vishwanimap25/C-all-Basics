@@ -14,7 +14,7 @@ namespace StringInterBuilder
             string str = "himanshu";
             Stopwatch newWatch = new Stopwatch();
             newWatch.Start();
-            for (int i = 0; i < 1000; i++)
+            for (int i = 0; i < 10; i++)
             {
                 str += i;
                 //Console.WriteLine(str + i);
@@ -28,7 +28,7 @@ namespace StringInterBuilder
             StringBuilder str2 = new StringBuilder("Himanshu ");
             Stopwatch stopwatch = new Stopwatch();  
             stopwatch.Start();
-            for (int i = 0; i < 1000; i++)
+            for (int i = 0; i < 10; i++)
             {
                 var strview = str2.Append(i);
                 //Console.WriteLine(strview);

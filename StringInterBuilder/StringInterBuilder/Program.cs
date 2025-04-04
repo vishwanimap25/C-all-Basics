@@ -18,6 +18,8 @@ namespace StringInterBuilder
             StringInterpolation.Examples();  //for static
 
             StringBuilderCode.BuldersExample();  //String Builer
+
+            ListCocept.ListExamples();
            
         }
     }
