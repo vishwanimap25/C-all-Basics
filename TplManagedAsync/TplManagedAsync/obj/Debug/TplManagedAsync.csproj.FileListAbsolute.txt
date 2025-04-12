@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\TplManagedAsync\TplManagedAsync\bin\Debug\TplManagedAsync.exe.config
+C:\Users\Nimap\source\repos\TplManagedAsync\TplManagedAsync\bin\Debug\TplManagedAsync.exe
+C:\Users\Nimap\source\repos\TplManagedAsync\TplManagedAsync\bin\Debug\TplManagedAsync.pdb
+C:\Users\Nimap\source\repos\TplManagedAsync\TplManagedAsync\obj\Debug\TplManagedAsync.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\TplManagedAsync\TplManagedAsync\obj\Debug\TplManagedAsync.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\TplManagedAsync\TplManagedAsync\obj\Debug\TplManagedAsync.exe
+C:\Users\Nimap\source\repos\TplManagedAsync\TplManagedAsync\obj\Debug\TplManagedAsync.pdb
