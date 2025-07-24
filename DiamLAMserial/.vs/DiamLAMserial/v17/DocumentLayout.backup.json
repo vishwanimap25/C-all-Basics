@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|solutionrelative:diamlamserial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|c:\\users\\nimap\\source\\repos\\diamlamserial\\diamlamserial\\outandref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\diamlamserial\\outandref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|solutionrelative:diamlamserial\\outandref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\diamlamserial\\interfacesexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|solutionrelative:diamlamserial\\interfacesexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\diamlamserial\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|solutionrelative:diamlamserial\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\diamlamserial\\diamondproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|solutionrelative:diamlamserial\\diamondproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\diamlamserial\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|solutionrelative:diamlamserial\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\diamlamserial\\interfacesexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8968FB4F-A386-412E-8D35-C58233FB452E}|DiamLAMserial\\DiamLAMserial.csproj|solutionrelative:diamlamserial\\interfacesexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\DiamLAMserial\\Program.cs",
+              "RelativeDocumentMoniker": "DiamLAMserial\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\DiamLAMserial\\Program.cs",
+              "RelativeToolTip": "DiamLAMserial\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:05:27.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,14 +67,14 @@
               "RelativeDocumentMoniker": "DiamLAMserial\\OutAndRef.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\DiamLAMserial\\OutAndRef.cs",
               "RelativeToolTip": "DiamLAMserial\\OutAndRef.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T12:09:10.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\DiamLAMserial\\Employee.cs",
               "RelativeDocumentMoniker": "DiamLAMserial\\Employee.cs",
@@ -63,32 +82,21 @@
               "RelativeToolTip": "DiamLAMserial\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T09:22:22.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\DiamLAMserial\\Program.cs",
-              "RelativeDocumentMoniker": "DiamLAMserial\\Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\DiamLAMserial\\Program.cs",
-              "RelativeToolTip": "DiamLAMserial\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwEkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:05:27.261Z",
+              "WhenOpened": "2025-04-04T09:22:22.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "InterfacesExample.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\DiamLAMserial\\InterfacesExample.cs",
               "RelativeDocumentMoniker": "DiamLAMserial\\InterfacesExample.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\DiamLAMserial\\InterfacesExample.cs",
               "RelativeToolTip": "DiamLAMserial\\InterfacesExample.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA7wBoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T08:53:53.033Z"
+              "WhenOpened": "2025-04-04T08:53:53.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -98,9 +106,10 @@
               "RelativeDocumentMoniker": "DiamLAMserial\\DiamondProblem.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\DiamLAMserial\\DiamLAMserial\\DiamondProblem.cs",
               "RelativeToolTip": "DiamLAMserial\\DiamondProblem.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwB8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:12:27.569Z"
+              "WhenOpened": "2025-04-04T07:12:27.569Z",
+              "EditorCaption": ""
             }
           ]
         }

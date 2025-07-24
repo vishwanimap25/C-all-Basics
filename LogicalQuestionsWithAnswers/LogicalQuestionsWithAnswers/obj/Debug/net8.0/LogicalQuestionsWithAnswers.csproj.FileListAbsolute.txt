@@ -1,0 +1,15 @@
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\obj\Debug\net8.0\LogicalQuestionsWithAnswers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\obj\Debug\net8.0\LogicalQuestionsWithAnswers.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\obj\Debug\net8.0\LogicalQuestionsWithAnswers.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\obj\Debug\net8.0\LogicalQuestionsWithAnswers.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\obj\Debug\net8.0\LogicalQuestionsWithAnswers.sourcelink.json
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\bin\Debug\net8.0\LogicalQuestionsWithAnswers.exe
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\bin\Debug\net8.0\LogicalQuestionsWithAnswers.deps.json
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\bin\Debug\net8.0\LogicalQuestionsWithAnswers.runtimeconfig.json
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\bin\Debug\net8.0\LogicalQuestionsWithAnswers.dll
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\bin\Debug\net8.0\LogicalQuestionsWithAnswers.pdb
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\obj\Debug\net8.0\LogicalQuestionsWithAnswers.dll
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\obj\Debug\net8.0\refint\LogicalQuestionsWithAnswers.dll
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\obj\Debug\net8.0\LogicalQuestionsWithAnswers.pdb
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\obj\Debug\net8.0\LogicalQuestionsWithAnswers.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\LogicalQuestionsWithAnswers\LogicalQuestionsWithAnswers\obj\Debug\net8.0\ref\LogicalQuestionsWithAnswers.dll

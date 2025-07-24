@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\palindromeornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\palindromeornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\missingelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\missingelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\stringreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\stringreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\checkanagramornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\checkanagramornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\swapnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\swapnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\intergerreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\intergerreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\secondmaximumnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\secondmaximumnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PalindromeOrNot.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\PalindromeOrNot.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\PalindromeOrNot.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\PalindromeOrNot.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\PalindromeOrNot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:24:28.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissingElements.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\MissingElements.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\MissingElements.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\MissingElements.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\MissingElements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:12:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringReverse.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\StringReverse.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\StringReverse.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\StringReverse.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\StringReverse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:31:11.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckAnagramOrNot.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\CheckAnagramOrNot.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\CheckAnagramOrNot.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\CheckAnagramOrNot.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\CheckAnagramOrNot.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:16:18.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwapNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\SwapNumbers.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\SwapNumbers.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\SwapNumbers.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\SwapNumbers.cs",
+              "ViewState": "AgIAABwAAACAGn2kGv0swBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:10:47.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IntergerReverse.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\IntergerReverse.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\IntergerReverse.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\IntergerReverse.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\IntergerReverse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:55:49.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecondMaximumNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\SecondMaximumNumber.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\SecondMaximumNumber.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\SecondMaximumNumber.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\SecondMaximumNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:15:53.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\Program.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\Program.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:12:26.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
