@@ -3,40 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\fibonaacinumberseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\fibonaacinumberseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\allcode\\duplicatenumbersinarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\allcode\\duplicatenumbersinarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\palindromeornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\palindromeornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\allcode\\squarerootofnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\allcode\\squarerootofnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\missingelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\missingelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\allcode\\primenumbertillnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\allcode\\primenumbertillnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\stringreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\stringreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\allcode\\evennumberfromlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\allcode\\evennumberfromlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\checkanagramornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\checkanagramornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\allcode\\fibonaacinumberseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\allcode\\fibonaacinumberseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\swapnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\swapnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\allcode\\palindromeornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\allcode\\palindromeornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\intergerreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\intergerreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\allcode\\missingelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\allcode\\missingelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\secondmaximumnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\secondmaximumnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\allcode\\stringreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\allcode\\stringreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\allcode\\checkanagramornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\allcode\\checkanagramornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\allcode\\swapnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\allcode\\swapnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\allcode\\intergerreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\allcode\\intergerreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\allcode\\secondmaximumnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\allcode\\secondmaximumnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,24 +75,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DuplicateNumbersInArray.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\DuplicateNumbersInArray.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\DuplicateNumbersInArray.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\DuplicateNumbersInArray.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\AllCode\\DuplicateNumbersInArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:38:55.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SquareRootOfNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\SquareRootOfNumbers.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\SquareRootOfNumbers.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\SquareRootOfNumbers.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\AllCode\\SquareRootOfNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:34:50.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrimeNumberTillNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\PrimeNumberTillNumber.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\PrimeNumberTillNumber.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\PrimeNumberTillNumber.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\AllCode\\PrimeNumberTillNumber.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:23:55.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EvenNumberFromList.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\EvenNumberFromList.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\EvenNumberFromList.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\EvenNumberFromList.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\AllCode\\EvenNumberFromList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:18:17.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FibonaaciNumberSeries.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\FibonaaciNumberSeries.cs",
-              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\FibonaaciNumberSeries.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\FibonaaciNumberSeries.cs",
-              "RelativeToolTip": "LogicalQuestionsWithAnswers\\FibonaaciNumberSeries.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\FibonaaciNumberSeries.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\FibonaaciNumberSeries.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\FibonaaciNumberSeries.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\AllCode\\FibonaaciNumberSeries.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T12:41:04.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PalindromeOrNot.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\PalindromeOrNot.cs",
-              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\PalindromeOrNot.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\PalindromeOrNot.cs",
-              "RelativeToolTip": "LogicalQuestionsWithAnswers\\PalindromeOrNot.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\PalindromeOrNot.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\PalindromeOrNot.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\PalindromeOrNot.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\AllCode\\PalindromeOrNot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T12:24:28.267Z",
@@ -84,12 +152,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MissingElements.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\MissingElements.cs",
-              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\MissingElements.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\MissingElements.cs",
-              "RelativeToolTip": "LogicalQuestionsWithAnswers\\MissingElements.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\MissingElements.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\MissingElements.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\MissingElements.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\AllCode\\MissingElements.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T12:12:17.942Z",
@@ -97,12 +165,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "StringReverse.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\StringReverse.cs",
-              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\StringReverse.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\StringReverse.cs",
-              "RelativeToolTip": "LogicalQuestionsWithAnswers\\StringReverse.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\StringReverse.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\StringReverse.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\StringReverse.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\AllCode\\StringReverse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T11:31:11.404Z",
@@ -110,12 +178,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CheckAnagramOrNot.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\CheckAnagramOrNot.cs",
-              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\CheckAnagramOrNot.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\CheckAnagramOrNot.cs",
-              "RelativeToolTip": "LogicalQuestionsWithAnswers\\CheckAnagramOrNot.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\CheckAnagramOrNot.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\CheckAnagramOrNot.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\CheckAnagramOrNot.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\AllCode\\CheckAnagramOrNot.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T11:16:18.756Z",
@@ -123,12 +191,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "SwapNumbers.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\SwapNumbers.cs",
-              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\SwapNumbers.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\SwapNumbers.cs",
-              "RelativeToolTip": "LogicalQuestionsWithAnswers\\SwapNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\SwapNumbers.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\SwapNumbers.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\SwapNumbers.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\AllCode\\SwapNumbers.cs",
               "ViewState": "AgIAABwAAACAGn2kGv0swBoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T11:10:47.779Z",
@@ -136,12 +204,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "IntergerReverse.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\IntergerReverse.cs",
-              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\IntergerReverse.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\IntergerReverse.cs",
-              "RelativeToolTip": "LogicalQuestionsWithAnswers\\IntergerReverse.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\IntergerReverse.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\IntergerReverse.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\IntergerReverse.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\AllCode\\IntergerReverse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T10:55:49.517Z",
@@ -149,12 +217,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "SecondMaximumNumber.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\SecondMaximumNumber.cs",
-              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\SecondMaximumNumber.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\SecondMaximumNumber.cs",
-              "RelativeToolTip": "LogicalQuestionsWithAnswers\\SecondMaximumNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\SecondMaximumNumber.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\SecondMaximumNumber.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\SecondMaximumNumber.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\AllCode\\SecondMaximumNumber.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T10:15:53.173Z",
@@ -168,7 +236,7 @@
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\Program.cs",
               "RelativeToolTip": "LogicalQuestionsWithAnswers\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwA4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T10:12:26.278Z",
               "EditorCaption": ""

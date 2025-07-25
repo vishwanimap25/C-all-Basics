@@ -1,4 +1,4 @@
-﻿namespace LogicalQuestionsWithAnswers
+﻿namespace LogicalQuestionsWithAnswers.AllCode
 {
     internal class StringReverse
     {

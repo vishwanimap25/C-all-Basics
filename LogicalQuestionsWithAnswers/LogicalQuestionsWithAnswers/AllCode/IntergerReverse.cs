@@ -1,7 +1,7 @@
 ﻿//WAP to reverse an integer without converting it to a string
 //without using any built-in methods.
 
-namespace LogicalQuestionsWithAnswers
+namespace LogicalQuestionsWithAnswers.AllCode
 {
     internal class IntergerReverse
     {

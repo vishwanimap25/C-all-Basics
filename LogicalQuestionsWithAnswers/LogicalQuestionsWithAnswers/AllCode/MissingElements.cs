@@ -1,5 +1,5 @@
 ﻿//WAP to find missing elements from the array?
-namespace LogicalQuestionsWithAnswers
+namespace LogicalQuestionsWithAnswers.AllCode
 {
     internal class MissingElements
     {

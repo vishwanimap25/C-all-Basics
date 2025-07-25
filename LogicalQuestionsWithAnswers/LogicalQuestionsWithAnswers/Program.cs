@@ -1,4 +1,5 @@
 ﻿using System;
+using LogicalQuestionsWithAnswers.AllCode;
 
 namespace LogicalQuestionsWithAnswers
 {
@@ -28,7 +29,26 @@ namespace LogicalQuestionsWithAnswers
             //(07)
             Console.Write("(7)Palindrome: ");
             PalindromeOrNot.Palind();
-            
+            //(08)
+            Console.Write("(8)Fibonacci Without Recurion: ");
+            FibonaaciNumberSeries.Fibonaacino();
+            Console.WriteLine();
+            //(09)
+            Console.Write("(9)Fibonacci with Recursion: ");
+            for(int i = 0; i < 20; i++)
+            {
+                Console.Write(FibonaaciNumberSeries.Fibo(i) + " ");
+            }
+            Console.WriteLine();
+            //(10)
+            Console.Write("(10)Even no. in List: ");
+            EvenNumberFromList.EveninList();
+            //(11)
+            Console.Write("(11)Prime no. in range: ");
+            PrimeNumberTillNumber.Primenumbers();
+            //(12)finding Squreroot 
+            SquareRootOfNumbers.Squareroot();
+            //(13)
         }
 
     }

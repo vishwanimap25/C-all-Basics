@@ -1,5 +1,5 @@
 ﻿//Logic for anagram program with its time complexity. (for large strings).
-namespace LogicalQuestionsWithAnswers
+namespace LogicalQuestionsWithAnswers.AllCode
 {
     internal class CheckAnagramOrNot
     {
@@ -8,8 +8,8 @@ namespace LogicalQuestionsWithAnswers
             string str1 = "listen";
             string str2 = "silent";
 
-            char[] ch1 = str1.Replace((" "),("")).ToLower().ToCharArray();
-            char[] ch2 = str2.Replace((" "), ("")).ToLower().ToCharArray();
+            char[] ch1 = str1.Replace(" ","").ToLower().ToCharArray();
+            char[] ch2 = str2.Replace(" ", "").ToLower().ToCharArray();
 
             if (ch1.Length != ch2.Length) { Console.WriteLine("Not a Anagram"); }
 

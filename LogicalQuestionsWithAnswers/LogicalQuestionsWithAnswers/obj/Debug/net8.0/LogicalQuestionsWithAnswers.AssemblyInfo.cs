@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogicalQuestionsWithAnswers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4d59c40a6f365a4bd2ed10de1d93502bfac692f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2df4e4da479977defa2773bf518c22c0d5fde8e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogicalQuestionsWithAnswers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogicalQuestionsWithAnswers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

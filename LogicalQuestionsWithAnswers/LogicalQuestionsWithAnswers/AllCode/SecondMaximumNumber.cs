@@ -2,7 +2,7 @@
 //sorting, without using any built-in methods and without deleting duplicate elements. What will be
 //the time complexity?
 
-namespace LogicalQuestionsWithAnswers
+namespace LogicalQuestionsWithAnswers.AllCode
 {
     internal class SecondMaximumNumber
     {

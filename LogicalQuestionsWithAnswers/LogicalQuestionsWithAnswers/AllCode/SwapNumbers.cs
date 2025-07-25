@@ -1,5 +1,5 @@
 ﻿//Swap Values without using any variable a = 10, b = 12.
-namespace LogicalQuestionsWithAnswers
+namespace LogicalQuestionsWithAnswers.AllCode
 {
     internal class SwapNumbers
     {
