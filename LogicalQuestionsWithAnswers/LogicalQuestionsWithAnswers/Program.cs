@@ -8,8 +8,11 @@ namespace LogicalQuestionsWithAnswers
     {
         static void Main(string[] args)
         {
-            Pattern1.Patternone();
-            Pattern2.Patterntwo();
+            //Pattern1.Patternone();
+            //Pattern2.Patterntwo();
+
+            ManyPatternProblems.NewPattern();
+
 
             ////(1)
             //Console.Write("(1)find 2nd max. : ");
