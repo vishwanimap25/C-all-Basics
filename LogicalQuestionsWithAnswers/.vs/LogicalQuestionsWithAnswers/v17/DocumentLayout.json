@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\ownpractice\\manypatternproblems3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\ownpractice\\manypatternproblems3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\ownpractice\\manypatternproblems2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\ownpractice\\manypatternproblems2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\ownpractice\\manypatternproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\ownpractice\\manypatternproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|solutionrelative:logicalquestionswithanswers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6076D07-37C0-4805-8DE5-D6457BCFB50B}|LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers.csproj|c:\\users\\nimap\\source\\repos\\logicalquestionswithanswers\\logicalquestionswithanswers\\ownpractice\\pattern1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,6 +95,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ManyPatternProblems3.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\OwnPractice\\ManyPatternProblems3.cs",
+              "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\OwnPractice\\ManyPatternProblems3.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\OwnPractice\\ManyPatternProblems3.cs",
+              "RelativeToolTip": "LogicalQuestionsWithAnswers\\OwnPractice\\ManyPatternProblems3.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAgwIIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:17:52.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ManyPatternProblems2.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\OwnPractice\\ManyPatternProblems2.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\OwnPractice\\ManyPatternProblems2.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ManyPatternProblems.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\OwnPractice\\ManyPatternProblems.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\OwnPractice\\ManyPatternProblems.cs",
@@ -111,12 +128,11 @@
               "RelativeToolTip": "LogicalQuestionsWithAnswers\\OwnPractice\\ManyPatternProblems.cs",
               "ViewState": "AgIAAGYAAAAAAAAAAADwv3gAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T12:11:26.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T12:11:26.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Pattern2.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\OwnPractice\\Pattern2.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\OwnPractice\\Pattern2.cs",
@@ -128,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Pattern1.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\OwnPractice\\Pattern1.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\OwnPractice\\Pattern1.cs",
@@ -140,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DuplicateNumbersInArray.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\DuplicateNumbersInArray.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\DuplicateNumbersInArray.cs",
@@ -152,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SquareRootOfNumbers.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\SquareRootOfNumbers.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\SquareRootOfNumbers.cs",
@@ -164,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PrimeNumberTillNumber.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\PrimeNumberTillNumber.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\PrimeNumberTillNumber.cs",
@@ -176,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EvenNumberFromList.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\EvenNumberFromList.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\EvenNumberFromList.cs",
@@ -188,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FibonaaciNumberSeries.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\FibonaaciNumberSeries.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\FibonaaciNumberSeries.cs",
@@ -200,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PalindromeOrNot.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\PalindromeOrNot.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\PalindromeOrNot.cs",
@@ -212,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MissingElements.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\MissingElements.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\MissingElements.cs",
@@ -224,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "StringReverse.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\StringReverse.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\StringReverse.cs",
@@ -236,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CheckAnagramOrNot.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\CheckAnagramOrNot.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\CheckAnagramOrNot.cs",
@@ -248,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SwapNumbers.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\SwapNumbers.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\SwapNumbers.cs",
@@ -260,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IntergerReverse.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\IntergerReverse.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\IntergerReverse.cs",
@@ -272,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "SecondMaximumNumber.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\AllCode\\SecondMaximumNumber.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\AllCode\\SecondMaximumNumber.cs",
@@ -284,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\LogicalQuestionsWithAnswers\\LogicalQuestionsWithAnswers\\Program.cs",
               "RelativeDocumentMoniker": "LogicalQuestionsWithAnswers\\Program.cs",
@@ -292,7 +308,8 @@
               "RelativeToolTip": "LogicalQuestionsWithAnswers\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T10:12:26.278Z"
+              "WhenOpened": "2025-07-24T10:12:26.278Z",
+              "EditorCaption": ""
             }
           ]
         },
