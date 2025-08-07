@@ -11,7 +11,9 @@ namespace LogicalQuestionsWithAnswers
             //Pattern1.Patternone();
             //Pattern2.Patterntwo();
 
-            ManyPatternProblems.NewPattern();
+            //ManyPatternProblems.NewPattern();
+
+            ManyPatternProblems3.pattern4();
 
 
             ////(1)

@@ -130,5 +130,49 @@ namespace LogicalQuestionsWithAnswers.OwnPractice
 
             }
         }
+
+        //(06)
+        public static void pattern3()
+        {
+            for(int i = 0; i < 5; i++)
+            {
+                //for(int j = 0; j < 5-i- 1; j++) //or//both are correct
+                for(int j = 1; j < 5 - i; j++) 
+                {
+                    Console.Write("   ");
+                }
+
+                int breakpoint = (2 * i + 1) / 2;
+                char ch = 'A';
+
+                for(int j = 0; j < 2 * i + 1; j++)
+                {
+                    Console.Write(ch + "  ");
+                    if (j < breakpoint) ch++;
+                    else ch--;
+                }
+                Console.WriteLine();
+            }
+        }
+
+        //(07)
+        public static void pattern4()
+        {
+            for (int i = 5 ; i > 0 ; i--)
+            {
+                
+                for (int j = i; j <= 5 ; j++)
+                {
+                    //char ch = (char)('A' + j - 1);
+                    char ch = (char)(j + 64);  //asci : A-> 97, a -> 65
+                    Console.Write(ch + " ");
+                }
+                Console.WriteLine();
+            }
+        }
+
+        //(08)
+
+
     }
 }
